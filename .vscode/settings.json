@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MySQLConn",
+            "database": "empDB",
+            "username": "root"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Chrome Download\\mysql-connector-j-9.4.0\\mysql-connector-j-9.4.0\\mysql-connector-j-9.4.0.jar"
+    ]
+}
