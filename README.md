@@ -1,5 +1,5 @@
 # Employee-Database-App
-Java DB app with connection code. (JDBC, MySQL DB performs CRUD.
+Java DB app with connection code. (JDBC, MySQL DB performs CRUD)
 
 ##
 A beginner-friendly Java application that connects to a MySQL database and performs CRUD (Create, Read, Update, Delete) operations on employee records using JDBC.
